@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+## new 
 """
 CS224N 2019-20: Homework 4
 nmt_model.py: NMT Model
